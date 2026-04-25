@@ -24,23 +24,6 @@ docker run -d -p 5000:5000 python-app
 
 http://localhost:5000
 
-## 📷 Screenshots
-
-### Docker Image Build
-
-![Build](screenshots/build.png)
-
-### Running Container
-
-![Run](screenshots/run.png)
-
-### Docker PS Output
-
-![Docker PS](screenshots/dockerps.png)
-
-### Application Output
-
-![Browser](screenshots/browser.png)
 
 ## Output
 
@@ -50,4 +33,4 @@ Status: Running Successfully
 
 ## 👤 Author
 
-Your Name
+Akshita
